@@ -1,0 +1,236 @@
+{
+  "id": "holcim-qe252m100-ecopact",
+  "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+  "supplier": "Holcim Australia Pty Ltd",
+  "productName": "QE252M100 - S25/20/100 ECOPact Concrete",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2319,
+  "compressiveStrength": {
+    "value": 25,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "Queensland - Brisbane",
+    "site": "Multiple Brisbane production sites"
+  },
+  "lifecycleScope": "Cradle-to-gate (A1-A3) with A4-A5, C1-C4 and D",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 146,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 27.649819483967498,
+          "top": 20.350696924754253,
+          "width": 2.6937018324408557,
+          "height": 3.1501555481901673
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "declared",
+      "value": 2.58,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 36.45417881574339,
+          "top": 20.350696924754253,
+          "width": 3.141979048934012,
+          "height": 3.1501555481901673
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "status": "declared",
+      "value": 12.9,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 45.48148895180058,
+          "top": 20.350696924754253,
+          "width": 3.141979048934012,
+          "height": 3.1501555481901673
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B6",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B7",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 0.522,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 54.06883649912152,
+          "top": 20.350696924754253,
+          "width": 4.038533481920324,
+          "height": 3.1501555481901673
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 4.31,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 63.55986530322038,
+          "top": 20.350696924754253,
+          "width": 3.141979048934012,
+          "height": 3.1501555481901673
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 10.4,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 72.58717543927757,
+          "top": 20.350696924754253,
+          "width": 3.141979048934012,
+          "height": 3.1501555481901673
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 82.57613166561792,
+          "top": 20.350696924754253,
+          "width": 1.2412551437078643,
+          "height": 3.1501555481901673
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": -18.5,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2025-05-epd-ies-0029695-001-holcim-qld-brisbane-ecopact-qe252m100-2026-04-15-1-pdf.pdf",
+        "page": 16,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 146 2.58 12.9 0.522 4.31 10.4 0 -18.5",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 90.37085762691373,
+          "top": 20.350696924754253,
+          "width": 3.6791040020294146,
+          "height": 3.1501555481901673
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

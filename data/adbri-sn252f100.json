@@ -1,0 +1,161 @@
+{
+  "id": "adbri-sn252f100",
+  "sourcePdf": "epd-ies-0021165-sn252f100.pdf",
+  "supplier": "Adbri Limited",
+  "productName": "SN252F100 - Futurecrete Normal Class GL-Slag 25 MPa",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": null,
+  "compressiveStrength": {
+    "value": 25,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "South Australia",
+    "site": "South Australia"
+  },
+  "lifecycleScope": "Product stage A1-A3 plus distribution A4",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero.",
+    "A1-A3 row was verified from a rendered page because the PDF text layer omits the table body."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 143.83,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021165-sn252f100.pdf",
+        "page": 32,
+        "tableOrSection": "Table 8 and Table 13",
+        "excerpt": "Table 8 SN252F100 GWPT 143.83; Table 13 Concrete produced at South Australia GWP-total 9.64",
+        "extractionMethod": "visual_review",
+        "confidence": "medium",
+        "notes": "A1-A3 row was verified from a rendered page because the PDF text layer omits the table body.",
+        "annotation": {
+          "left": 40.7,
+          "top": 58.1,
+          "width": 4.7,
+          "height": 7.3
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "declared",
+      "value": 9.64,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021165-sn252f100.pdf",
+        "page": 34,
+        "tableOrSection": "Table 13",
+        "excerpt": "Table 13 Concrete produced at South Australia GWP-total 9.64",
+        "extractionMethod": "visual_review",
+        "confidence": "medium",
+        "notes": "A1-A3 row was verified from a rendered page because the PDF text layer omits the table body.",
+        "annotation": {
+          "left": 31.086588406050303,
+          "top": 63.71574671275345,
+          "width": 3.3527304981218795,
+          "height": 3.883761536542779
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B6",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B7",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "D",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

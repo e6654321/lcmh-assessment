@@ -1,0 +1,217 @@
+{
+  "id": "hallett-n2520p-t50-dry-creek",
+  "sourcePdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+  "supplier": "Hallett Concrete",
+  "productName": "N2520P T50 - Dry Creek sample from multi-product EPD",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2311,
+  "compressiveStrength": {
+    "value": 25,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "South Australia",
+    "site": "Dry Creek"
+  },
+  "lifecycleScope": "Cradle-to-gate A1-A3 by plant/mix, with representative C1-C4 and D scenario",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero.",
+    "This PDF covers many mixes and plants. A1-A3 is the N2520P T50 Dry Creek row; C/D is the EPD representative average-density scenario."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 171,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+        "page": 11,
+        "tableOrSection": "Table 13",
+        "excerpt": "Table 13 GWPt N2520P T50 171; Table 43 representative GWPt C1 14.8 C2 5.96 C3 5.02 C4 8.45 D -11.6",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "This PDF covers many mixes and plants. A1-A3 is the N2520P T50 Dry Creek row; C/D is the EPD representative average-density scenario.",
+        "annotation": {
+          "left": 40.908655663348874,
+          "top": 25.836451317868132,
+          "width": 1.9876527655285372,
+          "height": 2.1975555001247193
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "A5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B6",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B7",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 14.8,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+        "page": 35,
+        "tableOrSection": "Table 43",
+        "excerpt": "Table 43 representative GWPt C1 14.8 C2 5.96 C3 5.02 C4 8.45 D -11.6",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "This PDF covers many mixes and plants. A1-A3 is the N2520P T50 Dry Creek row; C/D is the EPD representative average-density scenario.",
+        "annotation": {
+          "left": 20.13464365209357,
+          "top": 34.680837164000046,
+          "width": 2.2303977153416485,
+          "height": 2.1975555001247193
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 5.96,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+        "page": 35,
+        "tableOrSection": "Table 43",
+        "excerpt": "Table 43 representative GWPt C1 14.8 C2 5.96 C3 5.02 C4 8.45 D -11.6",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "This PDF covers many mixes and plants. A1-A3 is the N2520P T50 Dry Creek row; C/D is the EPD representative average-density scenario.",
+        "annotation": {
+          "left": 25.729536768720347,
+          "top": 34.680837164000046,
+          "width": 2.2303977153416485,
+          "height": 2.1975555001247193
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 5.02,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+        "page": 35,
+        "tableOrSection": "Table 43",
+        "excerpt": "Table 43 representative GWPt C1 14.8 C2 5.96 C3 5.02 C4 8.45 D -11.6",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "This PDF covers many mixes and plants. A1-A3 is the N2520P T50 Dry Creek row; C/D is the EPD representative average-density scenario.",
+        "annotation": {
+          "left": 31.32526983327034,
+          "top": 34.680837164000046,
+          "width": 2.2303977153416485,
+          "height": 2.1975555001247193
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 8.45,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+        "page": 35,
+        "tableOrSection": "Table 43",
+        "excerpt": "Table 43 representative GWPt C1 14.8 C2 5.96 C3 5.02 C4 8.45 D -11.6",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "This PDF covers many mixes and plants. A1-A3 is the N2520P T50 Dry Creek row; C/D is the EPD representative average-density scenario.",
+        "annotation": {
+          "left": 36.920162949897104,
+          "top": 34.680837164000046,
+          "width": 2.2303977153416485,
+          "height": 2.1975555001247193
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": -11.6,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-australasia-com-wp-content-uploads-2023-08-epd-ies-0009353-003-hallett-ready-mix-concrete-2026-05-04-pdf.pdf",
+        "page": 35,
+        "tableOrSection": "Table 43",
+        "excerpt": "Table 43 representative GWPt C1 14.8 C2 5.96 C3 5.02 C4 8.45 D -11.6",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "This PDF covers many mixes and plants. A1-A3 is the N2520P T50 Dry Creek row; C/D is the EPD representative average-density scenario.",
+        "annotation": {
+          "left": 42.20095754063248,
+          "top": 34.680837164000046,
+          "width": 2.6259291923900716,
+          "height": 2.1975555001247193
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

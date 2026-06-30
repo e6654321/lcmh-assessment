@@ -1,0 +1,244 @@
+{
+  "id": "entire-n50-20-xencrete",
+  "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+  "supplier": "Entire Concrete",
+  "productName": "N50/20 Xencrete",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2272,
+  "compressiveStrength": {
+    "value": 50,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "Hunter Valley, NSW",
+    "site": "Hunter Valley, NSW"
+  },
+  "lifecycleScope": "Cradle-to-gate (A1-A3) with A4-A5, C1-C4 and D",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 310,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 30.967490973014062,
+          "top": 27.48975340993079,
+          "width": 5.3125,
+          "height": 2.455150171336424
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "declared",
+      "value": 2.91,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 35.18641913721019,
+          "top": 30.840892293220453,
+          "width": 5.3125,
+          "height": 2.455150171336424
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "status": "declared",
+      "value": 17.5,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 39.39109416571646,
+          "top": 27.48975340993079,
+          "width": 5.3125,
+          "height": 2.455150171336424
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B6",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B7",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 4.32,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 73.07719260737363,
+          "top": 30.840892293220453,
+          "width": 5.3125,
+          "height": 2.455150171336424
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 12.2,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 77.29612077156975,
+          "top": 30.840892293220453,
+          "width": 5.3125,
+          "height": 2.455150171336424
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 6.96,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 81.50079580007602,
+          "top": 30.840892293220453,
+          "width": 5.3125,
+          "height": 2.455150171336424
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 4.26,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 85.71972396427215,
+          "top": 27.48975340993079,
+          "width": 5.3125,
+          "height": 2.455150171336424
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": -11.7,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5943_2026-06-27_en.pdf",
+        "page": 8,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total lifecycle table row",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "notes": "",
+        "annotation": {
+          "left": 89.83501995438996,
+          "top": 30.840892293220453,
+          "width": 5.746626757886736,
+          "height": 2.455150171336424
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

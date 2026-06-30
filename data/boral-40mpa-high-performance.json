@@ -1,0 +1,210 @@
+{
+  "id": "boral-40mpa-high-performance",
+  "sourcePdf": "EPD_HUB-5882_2026-06-27_en.pdf",
+  "supplier": "Boral Limited",
+  "productName": "40 MPa High Performance Concrete",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2338,
+  "compressiveStrength": {
+    "value": 40,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "Melbourne",
+    "site": "Melbourne"
+  },
+  "lifecycleScope": "Cradle-to-gate (A1-A3) with modules C1-C4 and D",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 297,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5882_2026-06-27_en.pdf",
+        "page": 13,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total kg CO2e: A1-A3 2.97E+02; C1 4.45E+00 C2 1.26E+01 C3 7.16E+00 C4 4.38E+00 D -1.28E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 77.97951535927942,
+          "top": 28.526198280366728,
+          "width": 9.875815016468373,
+          "height": 2.2345731794214054
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "A5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B6",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B7",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 4.45,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5882_2026-06-27_en.pdf",
+        "page": 14,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total kg CO2e: C1 4.45E+00 C2 1.26E+01 C3 7.16E+00 C4 4.38E+00 D -1.28E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 32.45790481952006,
+          "top": 12.718160657450953,
+          "width": 9.875815016468373,
+          "height": 2.2345731794214054
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 12.6,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5882_2026-06-27_en.pdf",
+        "page": 14,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total kg CO2e: C1 4.45E+00 C2 1.26E+01 C3 7.16E+00 C4 4.38E+00 D -1.28E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 44.600809975129394,
+          "top": 12.718160657450953,
+          "width": 9.875815016468373,
+          "height": 2.2345731794214054
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 7.16,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5882_2026-06-27_en.pdf",
+        "page": 14,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total kg CO2e: C1 4.45E+00 C2 1.26E+01 C3 7.16E+00 C4 4.38E+00 D -1.28E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 56.760519594004165,
+          "top": 12.718160657450953,
+          "width": 9.875815016468373,
+          "height": 2.2345731794214054
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 4.38,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5882_2026-06-27_en.pdf",
+        "page": 14,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total kg CO2e: C1 4.45E+00 C2 1.26E+01 C3 7.16E+00 C4 4.38E+00 D -1.28E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 68.90510519594004,
+          "top": 12.718160657450953,
+          "width": 9.875815016468373,
+          "height": 2.2345731794214054
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": -12.8,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD_HUB-5882_2026-06-27_en.pdf",
+        "page": 14,
+        "tableOrSection": "Environmental impacts - EN 15804+A2",
+        "excerpt": "GWP - total kg CO2e: C1 4.45E+00 C2 1.26E+01 C3 7.16E+00 C4 4.38E+00 D -1.28E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 80.90836526181353,
+          "top": 12.718160657450953,
+          "width": 10.63571284533172,
+          "height": 2.2345731794214054
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

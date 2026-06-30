@@ -1,0 +1,328 @@
+{
+  "id": "hymix-hylo-50-normal-class-25",
+  "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+  "epdNumber": "EPD-IES-0014958:001",
+  "supplier": "Hymix Australia Pty Ltd",
+  "productName": "HyLo-50 Normal-Class 25 MPa",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2315,
+  "compressiveStrength": {
+    "value": 25,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "Gold Coast",
+    "site": "Gold Coast"
+  },
+  "lifecycleScope": "A1-A3 + A4-A5 + B1-B7 + C1-C4 + D, cradle-to-grave",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 141,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 21.27140625,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "declared",
+      "value": 4.95,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 26.517239583333335,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "status": "declared",
+      "value": 10.7,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 31.252656249999994,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "status": "declared",
+      "value": -3.28,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 35.76614583333333,
+          "top": 24.636203703703703,
+          "width": 5.826041666666666,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "B2",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 40.72244791666667,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "B3",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 45.45786458333333,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "B4",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 50.19328125,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "B5",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 54.92765624999999,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "B6",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 59.66307291666666,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "B7",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 64.39744791666668,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 9.64,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 69.13598958333334,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 10.1,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 73.87036458333333,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 4.44,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 78.60578124999999,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 3.19,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 83.34119791666666,
+          "top": 24.636203703703703,
+          "width": 5.431145833333333,
+          "height": 2.562777777777778
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": -13.1,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014958_Hymix_GE252WA06-3_2024-11-19.pdf",
+        "page": 19,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.41E+02 4.95E+00 1.07E+01 -3.28E+00 ... -1.31E+01",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 87.8546875,
+          "top": 24.636203703703703,
+          "width": 5.826041666666666,
+          "height": 2.562777777777778
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

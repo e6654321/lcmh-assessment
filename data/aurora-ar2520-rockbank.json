@@ -1,0 +1,210 @@
+{
+  "id": "aurora-ar2520-rockbank",
+  "sourcePdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+  "supplier": "Aurora Construction Materials",
+  "productName": "AR2520 pre-mixed concrete",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2270,
+  "compressiveStrength": {
+    "value": 25,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "Victoria",
+    "site": "Rockbank"
+  },
+  "lifecycleScope": "A1-A3, C1-C4 and D",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 140,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+        "page": 18,
+        "tableOrSection": "Table of core environmental impact indicators",
+        "excerpt": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 26.477040573926264,
+          "top": 25.05711214136935,
+          "width": 7.4447690992018245,
+          "height": 4.091916952227373
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "A5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B6",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B7",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 12,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+        "page": 18,
+        "tableOrSection": "Table of core environmental impact indicators",
+        "excerpt": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 38.59576919422273,
+          "top": 25.05711214136935,
+          "width": 7.4447690992018245,
+          "height": 4.091916952227373
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 14.5,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+        "page": 18,
+        "tableOrSection": "Table of core environmental impact indicators",
+        "excerpt": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 50.713310053211714,
+          "top": 25.05711214136935,
+          "width": 7.4447690992018245,
+          "height": 4.091916952227373
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 8.03,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+        "page": 18,
+        "tableOrSection": "Table of core environmental impact indicators",
+        "excerpt": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 62.84272852527557,
+          "top": 25.05711214136935,
+          "width": 7.4447690992018245,
+          "height": 4.091916952227373
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 0.861,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+        "page": 18,
+        "tableOrSection": "Table of core environmental impact indicators",
+        "excerpt": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 75.22715935005702,
+          "top": 25.05711214136935,
+          "width": 6.915740212846826,
+          "height": 4.091916952227373
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": -9.79,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-0021754-001-acm-rockbank-ar2520.pdf",
+        "page": 18,
+        "tableOrSection": "Table of core environmental impact indicators",
+        "excerpt": "GWP-total kg CO2-eq. 1.40E+02 1.20E+01 1.45E+01 8.03E+00 8.61E-01 -9.79E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 86.71316752185481,
+          "top": 25.05711214136935,
+          "width": 8.171679019384264,
+          "height": 4.091916952227373
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

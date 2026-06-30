@@ -1,0 +1,328 @@
+{
+  "id": "hanson-p252080",
+  "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+  "epdNumber": "EPD-IES-0014769:001",
+  "supplier": "Hanson Construction Materials Pty Ltd",
+  "productName": "P252080",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2480,
+  "compressiveStrength": {
+    "value": 25,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "Queensland - Brisbane",
+    "site": "Brisbane"
+  },
+  "lifecycleScope": "A1-A3 + A4-A5 + B1-B7 + C1-C4 + D, cradle-to-grave",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 127,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 21.169370120518455,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "declared",
+      "value": 2.45,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 26.187814244927864,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "status": "declared",
+      "value": 9.95,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 30.761578109603576,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "status": "declared",
+      "value": -2.65,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 35.169092195356114,
+          "top": 24.317625527710412,
+          "width": 5.4141084918770055,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "B2",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 39.91036913514743,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "B3",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 44.48476464791935,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "B4",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 49.061686753076124,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "B5",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 53.635450617751836,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "B6",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 58.209846130523765,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "B7",
+      "status": "declared",
+      "value": 0,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 62.78360999519948,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 8.99,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 67.3586371560676,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 8.85,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 71.93240102074331,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 5.24,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 76.50616488541904,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 2.79,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 81.08056039819095,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": 6.14,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "EPD-IES-0014769_P252080.pdf",
+        "page": 21,
+        "tableOrSection": "Core environmental impact indicators",
+        "excerpt": "GWP-tot kg CO2 eq. 1.27E+02 2.45E+00 9.95E+00 -2.65E+00 ... 6.14E+00",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 85.65432426286668,
+          "top": 24.317625527710412,
+          "width": 5.036130271103362,
+          "height": 3.218472109943412
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}

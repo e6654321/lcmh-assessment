@@ -1,0 +1,30 @@
+{
+  "name": "lcmh-assessment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "extract": "node scripts/extract-epd-data.mjs && node scripts/enrich-annotations.mjs",
+    "render:annotations": "node scripts/render-annotations.mjs",
+    "audit:annotations": "node scripts/audit-annotations.mjs",
+    "validate:data": "node scripts/validate-data.mjs"
+  },
+  "dependencies": {
+    "next": "^15.5.19",
+    "postcss": "^8.5.10",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "zod": "3.25.67"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.7",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "eslint": "9.29.0",
+    "eslint-config-next": "^15.5.19",
+    "typescript": "5.8.3"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "id": "holcim-ve322eamf-ecopactmax",
+  "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+  "supplier": "Holcim Australia Pty Ltd",
+  "productName": "VE322EAMF - S32@56D 20mm 120SL ECOPactMAX FIB CONC",
+  "productType": "Ready-mix concrete",
+  "declaredUnit": "1 m3 of ready-mix concrete",
+  "declaredUnitMassKg": 2400,
+  "compressiveStrength": {
+    "value": 32,
+    "unit": "MPa",
+    "status": "declared"
+  },
+  "manufacturingLocation": {
+    "country": "Australia",
+    "region": "Victoria - Melbourne Metro",
+    "site": "Multiple Melbourne Metro production sites"
+  },
+  "lifecycleScope": "Cradle-to-gate (A1-A3) with A4-A5, C1-C4 and D",
+  "comparabilityNotes": [
+    "Compare only products with the same declared unit and equivalent application context.",
+    "Not-declared stages are shown as unavailable, not as zero."
+  ],
+  "carbon": [
+    {
+      "stage": "A1-A3",
+      "status": "declared",
+      "value": 105,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 27.718890284547992,
+          "top": 20.624758609651188,
+          "width": 2.6755284317722143,
+          "height": 3.668714188261786
+        }
+      }
+    },
+    {
+      "stage": "A4",
+      "status": "declared",
+      "value": 2.05,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 36.52408107909956,
+          "top": 20.624758609651188,
+          "width": 3.1197671147834507,
+          "height": 3.668714188261786
+        }
+      }
+    },
+    {
+      "stage": "A5",
+      "status": "declared",
+      "value": 8.81,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 45.551391215156755,
+          "top": 20.624758609651188,
+          "width": 3.1197671147834507,
+          "height": 3.668714188261786
+        }
+      }
+    },
+    {
+      "stage": "B1",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B2",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B3",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B4",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B5",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B6",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "B7",
+      "status": "not_declared",
+      "value": null,
+      "unit": "kg CO2e per declared unit",
+      "provenance": null
+    },
+    {
+      "stage": "C1",
+      "status": "declared",
+      "value": 0.532,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 54.13072108571212,
+          "top": 20.624758609651188,
+          "width": 4.026417881474564,
+          "height": 3.668714188261786
+        }
+      }
+    },
+    {
+      "stage": "C2",
+      "status": "declared",
+      "value": 3.99,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 63.617889526923854,
+          "top": 20.624758609651188,
+          "width": 3.1197671147834507,
+          "height": 3.668714188261786
+        }
+      }
+    },
+    {
+      "stage": "C3",
+      "status": "declared",
+      "value": 7.61,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 72.64519966298106,
+          "top": 20.624758609651188,
+          "width": 3.1197671147834507,
+          "height": 3.668714188261786
+        }
+      }
+    },
+    {
+      "stage": "C4",
+      "status": "declared",
+      "value": 1.28,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 81.69626587834367,
+          "top": 20.624758609651188,
+          "width": 3.1197671147834507,
+          "height": 3.668714188261786
+        }
+      }
+    },
+    {
+      "stage": "D",
+      "status": "declared",
+      "value": -15.7,
+      "unit": "kg CO2e per declared unit",
+      "provenance": {
+        "sourcePdf": "epd-ies-20602-001-holcim-vic-melbourne-metro-ecopact-ve322eamf-epd.pdf",
+        "page": 15,
+        "tableOrSection": "Primary environmental indicators",
+        "excerpt": "GWP-Total kg CO2 eq. 105 2.05 8.81 0.532 3.99 7.61 1.28 -15.7",
+        "extractionMethod": "manual_cross_check",
+        "confidence": "high",
+        "annotation": {
+          "left": 90.43357367628002,
+          "top": 20.624758609651188,
+          "width": 3.6629498681017343,
+          "height": 3.668714188261786
+        }
+      }
+    }
+  ],
+  "extractedAt": "2026-06-30T00:00:00.000Z"
+}
